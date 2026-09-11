@@ -8,40 +8,37 @@
     "repoURL": "https://github.com/monalisaRenaissance/monalisa",
     "principalDevelopers": "Bastien Milani, Berk Can Açikgöz",
     "longDescription": "The Monalisa toolbox for MRI reconstruction has been originaly developed at CIBM-CHUV between 2018 and 2023 by Bastien Milani. It continued to evovled until now, notably by the contribution of Berk Can Açikgöz while working in QIS lab at Inselspital and university of Bern. Originally, the development of the toolbox began by the implementation of non-cartesian reconstructions. The first reconstruction implemented was a gridded reconstruction which is part of the static non-iterative familly. After that, some static iterative reconstruction were added and later 3D-CINE iterative reconstructions with temporal regularisation were implemented (4D and 5D), all for non-cartesian data. Iterative 3D-CINE reconstruction for cartesian data were then implemented on the same model. The toolbox was further enriched with GRAPPA implementations.",
-    "keywords": [ "MRI, reconstruction, regularized, iterative, least-square, non-Cartesian, non-uniform" ],
+    "keywords": [
+      "MRI, reconstruction, regularized, iterative, least-square, non-Cartesian, non-uniform"
+    ],
     "keyReferences": [
-        
-        {
-            "referenceText": "Free-running 3D-CINE MRI of patients with congenital heart disease using inter-bin compensation of cardiac motion",
-            "referenceURL":  "https://archive.ismrm.org/2023/1083.html"
-        },
-
-        {
-            "referenceText": "Improving 3D-CINE tTV-regularized whole-heart MRI reconstruction",
-            "referenceURL":  "https://www.medrxiv.org/content/10.1101/2024.02.22.24302997v2"
-        },
-
-        {
-            "referenceText": "Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions",
-            "referenceURL": "https://arxiv.org/abs/2507.05312"
-        },
-
-        {
-            "referenceText": "Monalisa: An Open Source, Documented, User-Friendly MATLAB Toolbox for Magnetic Resonance Imaging Reconstruction",
-            "referenceURL": "https://www.biorxiv.org/content/10.1101/2025.06.06.658299v1"
-        }
-
+      {
+        "referenceText": "Free-running 3D-CINE MRI of patients with congenital heart disease using inter-bin compensation of cardiac motion",
+        "referenceURL": "https://archive.ismrm.org/2023/1083.html"
+      },
+      {
+        "referenceText": "Improving 3D-CINE tTV-regularized whole-heart MRI reconstruction",
+        "referenceURL": "https://www.medrxiv.org/content/10.1101/2024.02.22.24302997v2"
+      },
+      {
+        "referenceText": "Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions",
+        "referenceURL": "https://arxiv.org/abs/2507.05312"
+      },
+      {
+        "referenceText": "Monalisa: An Open Source, Documented, User-Friendly MATLAB Toolbox for Magnetic Resonance Imaging Reconstruction",
+        "referenceURL": "https://www.biorxiv.org/content/10.1101/2025.06.06.658299v1"
+      }
     ],
     "extraResources": [
-        {
-            "resourceType": "",
-            "URL": ""
-        }
+      {
+        "resourceType": "",
+        "URL": ""
+      }
     ],
     "dateAddedToMRHub": "2025-12-21",
-    "dateSoftwareLastUpdated": "2025-12-21",
+    "dateSoftwareLastUpdated": "2026-01-14",
     "citationSearchString": "https://doi.org/10.1101/2024.02.22.24302997",
-    "citationCount": ""
+    "citationCount": "0"
   },
   {
     "name": "XIPline",
@@ -72,7 +69,7 @@
       }
     ],
     "dateAddedToMRHub": "2025-08-13",
-    "dateSoftwareLastUpdated": "2026-01-13",
+    "dateSoftwareLastUpdated": "2026-09-05",
     "citationSearchString": "https://doi.org/10.1002/mrm.30347",
     "citationCount": "0"
   },
@@ -272,7 +269,7 @@
       }
     ],
     "dateAddedToMRHub": "2022-04-26",
-    "dateSoftwareLastUpdated": "2025-07-01",
+    "dateSoftwareLastUpdated": "2025-08-19",
     "citationSearchString": "ad79dff0e419f90fbc938fb0733a10a1aa8ca27e",
     "citationCount": "0"
   },
@@ -441,7 +438,7 @@
       }
     ],
     "dateAddedToMRHub": "2021-12-06",
-    "dateSoftwareLastUpdated": "2025-12-13",
+    "dateSoftwareLastUpdated": "2026-09-04",
     "citationSearchString": "10.1016/j.zemedi.2020.04.001",
     "citationCount": "0"
   },
@@ -590,7 +587,7 @@
       }
     ],
     "dateAddedToMRHub": "2021-08-01",
-    "dateSoftwareLastUpdated": "2026-01-07",
+    "dateSoftwareLastUpdated": "2026-06-14",
     "citationSearchString": "aa1f729decd1a5a0d56de10446a8e268367cb927",
     "citationCount": "0"
   },
@@ -670,7 +667,7 @@
       }
     ],
     "dateAddedToMRHub": "2021-07-26",
-    "dateSoftwareLastUpdated": "2025-12-04",
+    "dateSoftwareLastUpdated": "2026-08-18",
     "citationSearchString": "30567d7cd59f7a9a16f387b4d57bcd15f5d2d59b",
     "citationCount": "0"
   },
@@ -767,7 +764,7 @@
       }
     ],
     "dateAddedToMRHub": "2021-05-17",
-    "dateSoftwareLastUpdated": "2025-12-08",
+    "dateSoftwareLastUpdated": "2026-09-06",
     "citationSearchString": "10.1109/TMI.2010.2045126",
     "citationCount": "0"
   },
@@ -989,7 +986,7 @@
       }
     ],
     "dateAddedToMRHub": "2020-05-25",
-    "dateSoftwareLastUpdated": "2026-01-15",
+    "dateSoftwareLastUpdated": "2026-09-11",
     "citationSearchString": "CorpusID:195755688",
     "citationCount": "0"
   },
@@ -1056,7 +1053,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-10-16",
-    "dateSoftwareLastUpdated": "2025-12-19",
+    "dateSoftwareLastUpdated": "2026-08-17",
     "citationSearchString": "10.1002/mrm.28792",
     "citationCount": "0"
   },
@@ -1091,7 +1088,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-06-19",
-    "dateSoftwareLastUpdated": "2025-11-17",
+    "dateSoftwareLastUpdated": "2026-09-07",
     "citationSearchString": "10.1016/j.media.2016.02.010",
     "citationCount": "0"
   },
@@ -1235,7 +1232,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2026-01-13",
+    "dateSoftwareLastUpdated": "2026-08-12",
     "citationSearchString": "f6dbe95c44802c048c0d50e30b7593315eac5afe",
     "citationCount": "0"
   },
@@ -1355,7 +1352,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-23",
-    "dateSoftwareLastUpdated": "2025-12-18",
+    "dateSoftwareLastUpdated": "2026-07-24",
     "citationSearchString": "10.1002/mrm.25670",
     "citationCount": "0"
   },
@@ -1407,7 +1404,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2026-01-12",
+    "dateSoftwareLastUpdated": "2026-03-01",
     "citationSearchString": "10.1002/mrm.24751",
     "citationCount": "0"
   },
@@ -1511,7 +1508,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2025-09-25",
+    "dateSoftwareLastUpdated": "2026-05-05",
     "citationSearchString": "10.1002/mrm.26089",
     "citationCount": "0"
   },
@@ -1576,7 +1573,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2025-09-14",
+    "dateSoftwareLastUpdated": "2026-07-23",
     "citationSearchString": "10.1002/mrm.26235",
     "citationCount": "0"
   },
@@ -1687,7 +1684,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2025-07-14",
+    "dateSoftwareLastUpdated": "2026-06-24",
     "citationSearchString": "10.21105/joss.00656",
     "citationCount": "0"
   },
@@ -1781,7 +1778,7 @@
       }
     ],
     "dateAddedToMRHub": "2019-05-10",
-    "dateSoftwareLastUpdated": "2025-12-15",
+    "dateSoftwareLastUpdated": "2026-08-16",
     "citationSearchString": "10.1002/cmr.a.21357",
     "citationCount": "0"
   },
@@ -1867,7 +1864,7 @@
       }
     ],
     "dateAddedToMRHub": "2020-01-27",
-    "dateSoftwareLastUpdated": "2026-01-15",
+    "dateSoftwareLastUpdated": "2026-09-10",
     "citationSearchString": "a89d23db5695b754bf735ce7c4a9c538aca0760e",
     "citationCount": "0"
   },
